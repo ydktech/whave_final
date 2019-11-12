@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "536005499995",
+    "firebase_url": "https://whaledb.firebaseio.com",
+    "project_id": "whaledb",
+    "storage_bucket": "whaledb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536005499995:android:972ceef438ffa87a5bf37e",
+        "android_client_info": {
+          "package_name": "jp.espresso3389.flutter_rtmp_publisher_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536005499995-ca3q7a7g4o21scnhb8kjmrbhcebio60f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.espresso3389.flutter_rtmp_publisher_example",
+            "certificate_hash": "726a2dec2fd4fe5cdd59949a3ea2cef196a9dbb2"
+          }
+        },
+        {
+          "client_id": "536005499995-mm7a43nl4fb48itk3e5btd2tdoavvla9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.espresso3389.flutter_rtmp_publisher_example",
+            "certificate_hash": "09fea7dc4ab2068846fef01f811f9adfed42b893"
+          }
+        },
+        {
+          "client_id": "536005499995-p81npvaedl993ubcqrm40lup6ljpc6qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVEv-j8jAaqrRiIa56hFyObnztxl5cM9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536005499995-p81npvaedl993ubcqrm40lup6ljpc6qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

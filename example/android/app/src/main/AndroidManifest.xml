@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="jp.espresso3389.flutter_rtmp_publisher_example">
-
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
          In most cases you can leave this as-is, but you if you want to provide
@@ -8,8 +9,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="flutter_rtmp_publisher_example"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Whave"
+        android:icon="@mipmap/whale_logo">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
